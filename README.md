@@ -1,8 +1,5 @@
 # Grading Logic
 
-
-
-
 # Name: Sudarat Namchaiya
 # "I have not given or recieved any unauthorized assistance on this assignment"
 
