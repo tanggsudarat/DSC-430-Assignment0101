@@ -1,6 +1,4 @@
 # Name: Sudarat Namchaiya
-# Date: 9/21/2020
-# Video link: https://youtu.be/rCQT-LmDFq0
 # "I have not given or recieved any unauthorized assistance on this assignment"
 
 
